@@ -10,6 +10,8 @@ namespace _21._10._01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter")
+            Console.Readline()
         }
     }
 }
