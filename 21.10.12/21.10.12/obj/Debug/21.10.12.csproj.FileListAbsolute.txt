@@ -1,0 +1,7 @@
+Z:\11.E\Programozás\21.10.12\21.10.12\obj\Debug\21.10.12.csprojAssemblyReference.cache
+Z:\11.E\Programozás\21.10.12\21.10.12\obj\Debug\21.10.12.csproj.CoreCompileInputs.cache
+Z:\11.E\Programozás\21.10.12\21.10.12\bin\Debug\21.10.12.exe.config
+Z:\11.E\Programozás\21.10.12\21.10.12\bin\Debug\21.10.12.exe
+Z:\11.E\Programozás\21.10.12\21.10.12\bin\Debug\21.10.12.pdb
+Z:\11.E\Programozás\21.10.12\21.10.12\obj\Debug\21.10.12.exe
+Z:\11.E\Programozás\21.10.12\21.10.12\obj\Debug\21.10.12.pdb
