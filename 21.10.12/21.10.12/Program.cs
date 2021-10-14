@@ -15,7 +15,13 @@ namespace _21._10._12
             //feladat2();
             //feladat3a();
             //feladat3b();
-            feladat4();
+            //feladat4();
+            //feladat5();
+            //feladat6();
+            //feladat7();
+            //feladat8();
+            //feladat9();
+            feladat10();
             Console.WriteLine("       Kilépés enter.");
             Console.ReadKey();
         }
@@ -79,6 +85,65 @@ namespace _21._10._12
             else
             {
                 Console.WriteLine("A(z) {0} nem pozitiv szám.");
+            }
+        }
+        static void feladat5()
+        {
+            Console.Write("Adj meg egy poziziv egész számot: ");
+            int a = int.Parse(Console.ReadLine());
+            if (a % 2 == 0)
+            {
+                for (int i = 1; i < a; i++)
+                {
+                    Console.WriteLine("{0} ", i);
+                }
+            }
+            else
+            {
+                Console.WriteLine("A(z) {0} nem pozitiv szám.");
+            }
+        }
+        static void feladat6()
+        {
+            for (int i = 1; i <16 ; i++)
+            {
+                int a = i * 2;
+                Console.WriteLine("{0} ",a);
+            }
+        }
+        static void feladat7()
+        {
+            for (int i = 100; i < 401; i++)
+            {
+                if (i%4==0)
+                {
+                    Console.WriteLine("{0} ", i);
+                }
+            }
+        }
+        static void feladat8()
+        {
+            for (int i = 30; i < 101; i = i+9)
+            {
+                Console.WriteLine("{0} ", i);
+            }
+        }
+        static void feladat9()
+        {
+            for (int i = 150; i > 40; i = i - 12)
+            {
+                Console.WriteLine("{0} ", i);
+            }
+
+        }
+        static void feladat10()
+        {
+            for (int i = 100; i > -100; i--)
+            {
+                if (i%9==0)
+                {
+                    Console.WriteLine("{0} ",i);
+                }
             }
         }
     }
