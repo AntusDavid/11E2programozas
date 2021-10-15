@@ -1,0 +1,7 @@
+Z:\11.E\Programozás\21.10.15 doga\21.10.15 doga\bin\Debug\21.10.15 doga.exe.config
+Z:\11.E\Programozás\21.10.15 doga\21.10.15 doga\bin\Debug\21.10.15 doga.exe
+Z:\11.E\Programozás\21.10.15 doga\21.10.15 doga\bin\Debug\21.10.15 doga.pdb
+Z:\11.E\Programozás\21.10.15 doga\21.10.15 doga\obj\Debug\21.10.15 doga.csprojAssemblyReference.cache
+Z:\11.E\Programozás\21.10.15 doga\21.10.15 doga\obj\Debug\21.10.15 doga.csproj.CoreCompileInputs.cache
+Z:\11.E\Programozás\21.10.15 doga\21.10.15 doga\obj\Debug\21.10.15 doga.exe
+Z:\11.E\Programozás\21.10.15 doga\21.10.15 doga\obj\Debug\21.10.15 doga.pdb
